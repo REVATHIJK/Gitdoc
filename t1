@@ -1,0 +1,14 @@
+diff --git a/text.txt b/text.txt
+index 616f837..aeb529c 100644
+--- a/text.txt
++++ b/text.txt
+@@ -1,2 +1,7 @@
+- welcome
+- Welcome to the Training Session
++diff --git a/text.txt b/text.txt
++index 616f837..e69de29 100644
++--- a/text.txt
+++++ b/text.txt
++@@ -1,2 +0,0 @@
++- welcome
++- Welcome to the Training Session
